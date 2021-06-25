@@ -15,7 +15,7 @@ O programa tem as seguintes opções:
    7 – movimenta quantidade em estoque (entrada e saída);
    8 – altera produto pesquisado pelo nome completo;
    9 – exclui produto pesquisado pelo nome completo;
-   10 - saída pelo usuári;
+   10 - saída pelo usuário.
 
 
 
